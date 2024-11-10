@@ -1,3 +1,5 @@
 .venv
 backend/__pycache__
 env
+user-downloads
+**/__pycache__/
